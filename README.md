@@ -218,8 +218,12 @@ Install Otp-Based-login-and-registor-.git using one of the following methods:
 ❯ pip install -r auth/requirements.txt
 ```
 
-
-
+```sh
+❯ python manage.py makemigrations
+```
+```sh
+❯ python manage.py migrate
+```
 
 ###  Usage
 Run Otp-Based-login-and-registor-.git using the following command:
