@@ -3,14 +3,9 @@
 </p>
 <p align="center"><h1 align="center">OTP-BASED-LOGIN-AND-REGISTOR-.GIT</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Otp-Based-Login-Registor-System</code></em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/faizan1-stack/Otp-Based-login-and-registor-.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/faizan1-stack/Otp-Based-login-and-registor-.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/faizan1-stack/Otp-Based-login-and-registor-.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/faizan1-stack/Otp-Based-login-and-registor-.git?style=default&color=0080ff" alt="repo-language-count">
-</p>
+
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
 <p align="center">
@@ -38,13 +33,22 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ 
+<p>
+	<h2> This code code can registor and verify through the Otp Verfiation </h2>
+	
+</p>
+</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ 
+<p>
+	<h3>OTP-BASED AUTHORIZATION OF USER USING JWT TOKEN </h3>
+</p>
+</code>
 
 ---
 
